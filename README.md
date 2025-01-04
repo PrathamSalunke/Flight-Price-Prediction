@@ -44,7 +44,10 @@ The dataset requires the following preprocessing steps:
 3. **Scaling**: Normalizing numerical columns.
 4. **Splitting Data**: Dividing the dataset into training and testing sets for model evaluation.
 
+---
+## Results 📈
 
-
+The best-performing model achieved:
+- **R² Score:** 0.82
 
 
